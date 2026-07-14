@@ -15,7 +15,7 @@ This project aims to detect weapons in real-time through cameras and notify auth
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AryamanRoy/AI-Based-Firearm-Detection.git
+   git clone[https://github.com/Anishuttekar/Safesight.git]
    cd realtime-weapon-detection
    ```
 
